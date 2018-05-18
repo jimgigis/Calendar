@@ -1,0 +1,34 @@
+E:\Xinis\Kollegio\Programming_2\2013_2014\Assessments\Comp_3_Calendar\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Xinis\Kollegio\Programming_2\2013_2014\Assessments\Comp_3_Calendar\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.MainForm.resources
+E:\Xinis\Kollegio\Programming_2\2013_2014\Assessments\Comp_3_Calendar\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.Properties.Resources.resources
+E:\Xinis\Kollegio\Programming_2\2013_2014\Assessments\Comp_3_Calendar\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Xinis\Kollegio\Programming_2\2013_2014\Assessments\Comp_3_Calendar\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.MainForm.resources
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.Properties.Resources.resources
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.RecurringAppointmentForm.resources
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\CalendarApplication.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\bin\Debug\Calendar_Starting_Solution_VS_2010.exe
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\bin\Debug\Calendar_Starting_Solution_VS_2010.pdb
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar_Starting_Solution_VS_2010.exe
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar_Starting_Solution_VS_2010.pdb
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.AppointmentForm.resources
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar_Starting_Solution_VS_2010.exe
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar_Starting_Solution_VS_2010.pdb
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\bin\Debug\Calendar_Starting_Solution_VS_2010.exe
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\bin\Debug\Calendar_Starting_Solution_VS_2010.pdb
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.AppointmentForm.resources
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.MainForm.resources
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.Properties.Resources.resources
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.RecurringAppointmentForm.resources
+D:\Mediterranean College\Programming II\Assessment IV\Solution\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\CalendarApplication.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\KAA_Starting_Solution_VS_2010\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar_Starting_Solution_VS_2010.exe
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar_Starting_Solution_VS_2010.pdb
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\bin\Debug\Calendar_Starting_Solution_VS_2010.exe
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\bin\Debug\Calendar_Starting_Solution_VS_2010.pdb
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.AppointmentForm.resources
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.MainForm.resources
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.Properties.Resources.resources
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\Calendar.RecurringAppointmentForm.resources
+C:\Users\user\Desktop\DIMITRIOS_GKIGKIS CALLENDAR\Calendar_Starting_Solution_VS_2010\obj\x86\Debug\CalendarApplication.csproj.GenerateResource.Cache
